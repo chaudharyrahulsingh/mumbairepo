@@ -7,13 +7,5 @@ cat filename		(for check the content of any file)
 rm filename             (for delete empty file)
 rmdir -p directoryname  (for delete empty directory)
 rm -rf 			(for delete file and directory forcefully in once)
-cp source target        (for copy a file to directory)
-cp -r source target     (for copy a directory to another directory))
-mv source target        (for move a file/directory to another direcory))
-mkdir -p /ram/pawan     (for create a sub directory into parent directory)
-mkdir -m 755 dir.name   (for create a directory with full permission)
-cat source>> target     (for sync a file content with another file content)
-mv oldname newname      (for rename of file & directory)
-
 
 
