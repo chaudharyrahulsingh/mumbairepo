@@ -1,0 +1,11 @@
+                      [  Basic Commands  ]
+touch filename          (for create a empty file)
+mkdir   directoryname   (for create a directory)
+ls                      (for list)
+cd                      (for change directory)
+cat filename		(for check the content of any file)
+rm filename             (for delete empty file)
+rmdir -p directoryname  (for delete empty directory)
+rm -rf 			(for delete file and directory forcefully in once)
+
+
